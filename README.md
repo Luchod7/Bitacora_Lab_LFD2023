@@ -8,4 +8,4 @@ Catualización : 18 - 08 - 2023
 Luis Devia
 
 
-Visitar información en Wiki 
+**Visitar información en  [Wiki](https://github.com/Luchod7/Bitacora_Lab_LFD2023)  ** 
